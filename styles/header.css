@@ -9,6 +9,9 @@
     border-bottom-width: 1px;
     border-bottom-style: solid;
     margin-bottom: 20px;
+    position: sticky;
+    top: 0;
+    background-color: white;
  
 
 }
